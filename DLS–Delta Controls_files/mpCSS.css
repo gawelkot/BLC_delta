@@ -1,0 +1,73 @@
+/*#868206.9//11.13.19//*/
+
+@media(min-width: 768px){
+.responsive #top .slideshow_caption h2,
+ul.avia-slideshow-inner li div.container.caption_container div.slideshow_caption div.slideshow_inner_caption div.slideshow_align_caption > h2{
+    font-size: 3.3vw !important;
+}
+
+section.av_textblock_section div.avia_textblock  h1.delta_white{
+    font-size: 42px !important;
+}
+
+section.av_textblock_section div.avia_textblock h2.delta_white strong{
+    font-size: 38px;
+    line-height: 1;
+    display: block;
+}
+}
+
+@media(max-width: 768px){
+section.av_textblock_section div.avia_textblock h2.delta_white strong{
+    font-size: 28px;
+    line-height: 1;
+    display: block;
+}
+}
+
+g text tspan{
+    font-size: 10px;
+}
+
+section.av_textblock_section div.avia_textblock h3[style="text-align: left;"] a{
+    font-size: 12px !important;
+}
+
+div.flex_column.av_one_half div.avia-button-wrap a span{
+    font-size: 11px !important;
+}
+
+
+
+/*#868127.20//02.03.20//*/
+
+/* section.av_textblock_section[itemtype*="/BlogPosting"] div.avia_textblock > h3 ~ p br{
+    display: none !important;
+} */
+
+
+
+/*#868127.22//02.06.20//*/
+
+div#wpsl-search-wrap form div.wpsl-input input#wpsl-search-input{
+    max-width: 220px;
+    padding-right: 0px !important;
+}
+
+div#wpsl-search-wrap form div.wpsl-input:nth-child(1){
+    max-width: 220px;
+}
+
+div#wpsl-search-wrap form label{
+    white-space: nowrap;
+    font-size: 11px;
+}
+
+div#wpsl-search-wrap form div.wpsl-dropdown{
+    min-width: 120px !important;
+    margin-left: 4px;
+}
+
+div#wpsl-search-wrap form div.wpsl-dropdown *{
+    font-size: 11px !important;
+}
